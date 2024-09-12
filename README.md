@@ -12,3 +12,6 @@ Commands to push the code to the repository:
  git branch
  git remote add origin "github repo url"
  git push -u origin main 
+
+Pull code:
+git pull [remote] [branch] ==> git pull origin main
