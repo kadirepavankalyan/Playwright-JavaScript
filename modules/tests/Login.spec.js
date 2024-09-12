@@ -1,8 +1,8 @@
 import { test, expect } from "@playwright/test";
 import LoginPage from "../pages/LoginPage.js";
 import HomePage from "../pages/HomePage.js";
-import InventoryPage from "../pages/inventoryPage.js";
-import ProductPage from "../pages/productPage.js";
+import InventoryPage from "../pages/InventoryPage.js";
+import ProductPage from "../pages/ProductPage.js";
 
 test.describe("Swag Labs", () => {
   let page;

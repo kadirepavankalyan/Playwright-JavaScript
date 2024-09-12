@@ -68,7 +68,7 @@
       "specs": [],
       "suites": [
         {
-          "title": "Swag Labs Login Tests",
+          "title": "Swag Labs",
           "file": "modules/tests/Login.spec.js",
           "line": 7,
           "column": 6,
@@ -88,22 +88,22 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 4613,
+                      "duration": 3637,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-12T08:07:23.863Z",
+                      "startTime": "2024-09-12T10:53:09.511Z",
                       "attachments": [
                         {
                           "name": "screenshot",
                           "contentType": "image/png",
-                          "path": "C:\\Users\\pavanka\\playwright-javascript\\test-results\\modules-tests-Login-Swag-L-68913-ogin-with-valid-credentials-chromium\\test-finished-1.png"
+                          "path": "C:\\Users\\pavanka\\playwright-javascript\\test-results\\modules-tests-Login-Swag-L-10b50-ogin-with-valid-credentials-chromium\\test-finished-1.png"
                         },
                         {
                           "name": "screenshot",
                           "contentType": "image/png",
-                          "path": "C:\\Users\\pavanka\\playwright-javascript\\test-results\\modules-tests-Login-Swag-L-68913-ogin-with-valid-credentials-chromium\\test-finished-2.png"
+                          "path": "C:\\Users\\pavanka\\playwright-javascript\\test-results\\modules-tests-Login-Swag-L-10b50-ogin-with-valid-credentials-chromium\\test-finished-2.png"
                         }
                       ]
                     }
@@ -111,7 +111,7 @@
                   "status": "expected"
                 }
               ],
-              "id": "d47b82c695ab74b77752-ec7e3b04eae6b3a4b815",
+              "id": "d47b82c695ab74b77752-1a77c00e2520a09325fc",
               "file": "modules/tests/Login.spec.js",
               "line": 17,
               "column": 7
@@ -131,7 +131,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 599,
+                      "duration": 545,
                       "errors": [],
                       "stdout": [
                         {
@@ -140,12 +140,12 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-12T08:07:29.944Z",
+                      "startTime": "2024-09-12T10:53:14.740Z",
                       "attachments": [
                         {
                           "name": "screenshot",
                           "contentType": "image/png",
-                          "path": "C:\\Users\\pavanka\\playwright-javascript\\test-results\\modules-tests-Login-Swag-L-2e2d4-in-with-invalid-credentials-chromium\\test-finished-1.png"
+                          "path": "C:\\Users\\pavanka\\playwright-javascript\\test-results\\modules-tests-Login-Swag-L-e3941-in-with-invalid-credentials-chromium\\test-finished-1.png"
                         }
                       ]
                     }
@@ -153,7 +153,7 @@
                   "status": "expected"
                 }
               ],
-              "id": "d47b82c695ab74b77752-9d376ef6761159957767",
+              "id": "d47b82c695ab74b77752-dc61c5f4e27dad5c22b6",
               "file": "modules/tests/Login.spec.js",
               "line": 25,
               "column": 7
@@ -173,17 +173,17 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 2263,
+                      "duration": 1964,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-12T08:07:30.552Z",
+                      "startTime": "2024-09-12T10:53:15.291Z",
                       "attachments": [
                         {
                           "name": "screenshot",
                           "contentType": "image/png",
-                          "path": "C:\\Users\\pavanka\\playwright-javascript\\test-results\\modules-tests-Login-Swag-L-14616-alid-credentials-and-logout-chromium\\test-finished-1.png"
+                          "path": "C:\\Users\\pavanka\\playwright-javascript\\test-results\\modules-tests-Login-Swag-L-8b0cb-alid-credentials-and-logout-chromium\\test-finished-1.png"
                         }
                       ]
                     }
@@ -191,7 +191,7 @@
                   "status": "expected"
                 }
               ],
-              "id": "d47b82c695ab74b77752-8259da0593b5754cdbcc",
+              "id": "d47b82c695ab74b77752-b47d90a2ffdacd76c17f",
               "file": "modules/tests/Login.spec.js",
               "line": 35,
               "column": 7
@@ -211,7 +211,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 9328,
+                      "duration": 8314,
                       "errors": [],
                       "stdout": [
                         {
@@ -223,12 +223,12 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-12T08:07:32.822Z",
+                      "startTime": "2024-09-12T10:53:17.268Z",
                       "attachments": [
                         {
                           "name": "screenshot",
                           "contentType": "image/png",
-                          "path": "C:\\Users\\pavanka\\playwright-javascript\\test-results\\modules-tests-Login-Swag-L-8e2c1--Adding-product-to-the-cart-chromium\\test-finished-1.png"
+                          "path": "C:\\Users\\pavanka\\playwright-javascript\\test-results\\modules-tests-Login-Swag-Labs-Adding-product-to-the-cart-chromium\\test-finished-1.png"
                         }
                       ]
                     }
@@ -236,7 +236,7 @@
                   "status": "expected"
                 }
               ],
-              "id": "d47b82c695ab74b77752-0908f1b415b884670553",
+              "id": "d47b82c695ab74b77752-6fd76849fe505071cdc3",
               "file": "modules/tests/Login.spec.js",
               "line": 49,
               "column": 7
@@ -248,8 +248,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-09-12T08:07:22.177Z",
-    "duration": 20622.235999999997,
+    "startTime": "2024-09-12T10:53:07.802Z",
+    "duration": 18577.881,
     "expected": 4,
     "skipped": 0,
     "unexpected": 0,
